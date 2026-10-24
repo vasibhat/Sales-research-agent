@@ -74,4 +74,4 @@ Start reading at `agent.py`. Everything else plugs into it.
 LedgerLeaf Technologies and its documents are made up, for demo use only.
 
 ---
-© 2026 Augustinnovate Pvt. Ltd.
+
