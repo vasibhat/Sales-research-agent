@@ -1,0 +1,7 @@
+{
+  "target_industries": ["retail", "manufacturing", "logistics", "fmcg", "consumer goods", "pharmaceutical", "e-commerce", "automotive", "steel", "textile"],
+  "min_employees": 200,
+  "ideal_employees": 1000,
+  "target_countries": ["india", "united arab emirates", "uae", "singapore"],
+  "buying_signals": ["funding", "expansion", "acquisition", "new cfo", "hiring finance", "erp", "sap", "digital transformation", "ipo", "new plant", "new warehouse"]
+}
